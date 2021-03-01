@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-router-pokedex/static/css/main.b5b6948f.chunk.css",
+    "main.js": "/react-router-pokedex/static/js/main.668f28d6.chunk.js",
+    "main.js.map": "/react-router-pokedex/static/js/main.668f28d6.chunk.js.map",
+    "runtime-main.js": "/react-router-pokedex/static/js/runtime-main.10bc3f4f.js",
+    "runtime-main.js.map": "/react-router-pokedex/static/js/runtime-main.10bc3f4f.js.map",
+    "static/js/2.54cd79dd.chunk.js": "/react-router-pokedex/static/js/2.54cd79dd.chunk.js",
+    "static/js/2.54cd79dd.chunk.js.map": "/react-router-pokedex/static/js/2.54cd79dd.chunk.js.map",
+    "static/js/3.9b826bb1.chunk.js": "/react-router-pokedex/static/js/3.9b826bb1.chunk.js",
+    "static/js/3.9b826bb1.chunk.js.map": "/react-router-pokedex/static/js/3.9b826bb1.chunk.js.map",
+    "index.html": "/react-router-pokedex/index.html",
+    "static/css/main.b5b6948f.chunk.css.map": "/react-router-pokedex/static/css/main.b5b6948f.chunk.css.map",
+    "static/js/2.54cd79dd.chunk.js.LICENSE.txt": "/react-router-pokedex/static/js/2.54cd79dd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10bc3f4f.js",
+    "static/js/2.54cd79dd.chunk.js",
+    "static/css/main.b5b6948f.chunk.css",
+    "static/js/main.668f28d6.chunk.js"
+  ]
+}
