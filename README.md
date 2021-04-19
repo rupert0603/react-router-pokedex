@@ -1,4 +1,4 @@
-# RESTO APP
+# POKEMON IMAGE GALLERY
 
 ## Description
 A single page web app displaying a collection of images of pokemons. Users can sort the pokemons using their type(s).
