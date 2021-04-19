@@ -16,7 +16,7 @@ A single page web app displaying a collection of images of pokemons. Users can s
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/rupert0603/redux-resto.git
+   git clone https://github.com/rupert0603/react-router-pokedex.git
    ```
 2. Install NPM packages
    ```sh
